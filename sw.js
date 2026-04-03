@@ -3,7 +3,7 @@
   © 2024 Star Reading. All Rights Reserved.
 */
 
-const CACHE_NAME = 'star-reading-v16';
+const CACHE_NAME = 'star-reading-v17';
 
 // キャッシュするファイル一覧
 const CACHE_FILES = [
